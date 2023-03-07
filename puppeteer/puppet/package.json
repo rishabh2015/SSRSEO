@@ -1,0 +1,9 @@
+{
+  "name": "puppeteerproject",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "4.17.1",
+    "puppeteer": "^5.5.0"
+  }
+}
